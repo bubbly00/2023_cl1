@@ -12,6 +12,8 @@ This repository contains my lab assignments for Machine Learning (ML), Data Mode
 
 - **Information Retrieval (IR)**: For assignments related to IR, navigate to the `IR` folder. It includes information retrieval concepts, implementations, and reports.
 
+- **Quantum Artificial Intelligence (QAI)**: This subject delves into the intersection of quantum computing and artificial intelligence. Explore the `QAI` folder for in-depth explanations and code solutions related to Quantum Artificial Intelligence concepts.
+
 
 ## License
 
